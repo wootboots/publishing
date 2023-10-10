@@ -1,3 +1,7 @@
+---v2---
+write me a business case to present to senior directors for a fortune 100 company focusing on issuance, policy document generation for an insurance company. Highlight a new framework allowing reduction in speed to market from months to 3 weeks per product, reduced overhead (including employee spend), as well as reduction in maintenance windows from weeks to days by leveraging shared components.  Emphasis the reusable publishing framework will include a centralized requirements repository, defined common vernacular data model, and standardizing architecture by ensuring all products adhere to the same practices resulting in lower lift for maintenance....common forms such as interline assets (compliance forms, logos, signatures, and the like) would be shared across the markets to ensure an promote once, available everywhere mentality 
+---v2---
+
 Business Case: Enhancing Insurance Policy Issuance Through A Novel Framework
 
 Executive Summary:
@@ -53,9 +57,9 @@ Conduct pilot testing with a single product to gauge improvements.
 Roll out across all products upon successful pilot testing.
 It's time we leverage technology and innovation to deliver exceptional value to our customers while optimizing our internal processes. Let's lead the change.
 
----
-v1
----
+---v1---
+write me a business case to present to senior directors for a fortune 100 company focusing on issuance, policy document generation for an insurance company. Highlight a new framework allowing reduction in speed to market from months to 3 weeks per product, reduced overhead (including employee spend), as well as reduction in maintenance windows from weeks to days by leveraging shared components.  Emphasis the reusable publishing framework will include a centralized requirements repository, defined common vernacular data model, and a lens towards standardizing architecture.
+---v1---
 Business Case: Revitalizing Insurance Policy Issuance and Documentation Generation
 
 Presented to: Senior Directors of [Fortune 100 Company Name]
